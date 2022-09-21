@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "smart_tasks_design"
+  site-url: "https://hgzech.github.io/smart_tasks_design"
+  description: "A project that helps design experiments for the smart tasks framework."
+  repo-branch: main
+  repo-url: "https://github.com/hgzech/smart_tasks_design"
